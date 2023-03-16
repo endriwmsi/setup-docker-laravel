@@ -73,6 +73,7 @@ Gerar a key do projeto Laravel
 ```sh
 php artisan key:generate
 ```
+Iniciar servidor local pelo VITE
 ```sh
 npm run dev
 ```
